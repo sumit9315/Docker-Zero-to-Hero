@@ -22,7 +22,7 @@ Today we’ll:
 
 * Understand the **basics of containers** (crucial before diving into projects)
 * Learn what **Docker** is (just an intro, no commands/projects yet)
-* Touch on **Buildah**, a powerful tool for building containers
+* Touch on **Builda**, a powerful tool for building containers
 
 > This is an **introductory class**, so we won’t create projects or run commands yet. First, let's get our foundations strong.
 
